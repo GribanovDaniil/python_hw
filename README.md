@@ -1,1 +1,1 @@
-Homework for Python 
+Homework for Python [Oleg Yurievich]
